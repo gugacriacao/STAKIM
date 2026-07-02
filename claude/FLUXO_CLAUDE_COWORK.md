@@ -6,11 +6,7 @@ O Claude Cowork é o escritório operacional da STAKIM.
 
 ## Como usar
 
-1. Abrir a pasta da STAKIM.
-2. Pedir para ler `INSTRUCOES_PARA_CLAUDE.md`.
-3. O Claude executa etapas.
-4. O CEO acompanha no Claude e no Painel.
-5. Decisões são registradas.
+O passo a passo completo está em `INSTRUCOES_PARA_CLAUDE.md` (não duplicado aqui). Resumo do ciclo: Claude executa etapas → CEO acompanha no Claude e no Painel → decisões são registradas em `memoria/DECISOES.md`.
 
 ## Regra
 

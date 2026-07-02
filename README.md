@@ -6,9 +6,7 @@ Esta é a fundação operacional da STAKIM: empresa de tecnologia criada para tr
 
 ## Como começar no Claude Cowork
 
-1. Abra esta pasta no Claude Cowork.
-2. Peça: `Leia INSTRUCOES_PARA_CLAUDE.md e siga o plano em etapas.`
-3. O Claude deverá configurar a estrutura, revisar agentes, preparar GitHub e evoluir o Painel STAKIM.
+Abra esta pasta no Claude Cowork e peça: `Leia INSTRUCOES_PARA_CLAUDE.md e siga o plano em etapas.` Todo o passo a passo, regras de execução e primeira missão estão detalhados lá — este README não repete o conteúdo.
 
 ## Para o Gustavo ler
 
