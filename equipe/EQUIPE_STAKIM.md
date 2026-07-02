@@ -3,7 +3,7 @@
 ## Liderança
 
 - CEO: Gustavo/Tavinho
-- Secretária Executiva
+- Secretária Executiva: Fabiana ("Fabi")
 - Coordenador
 - Conselheiro Estratégico
 
